@@ -1,4 +1,4 @@
-# GREEVA-ENERGY-SOLUTIONS
+# INTRODUCTION
 Greeva Energy Solutions is a growing U.S.-based renewable energy consultancy that helps corporations, utility providers, and state governments transition to cleaner energy sources. Their clients span various sectors, including industrial manufacturers, commercial real estate firms, and local municipalities
 Despite a strong portfolio, Greeva has recently observed slower growth in solar and wind energy adoption among certain sectors. They also face increasing competition from newer players who offer optimized energy mix recommendations backed by advanced analytics.
 Using an excel based analysis, this report presents the analysis and findings of the renewable energy findings with a goal of optimizing utilization of available renewable energy resources, how seasonal patterns influence sector wise renewable energy use and to leverage historical renewable energy consumption data across sectors and sources.
